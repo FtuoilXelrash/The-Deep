@@ -7,9 +7,8 @@ The Deep Decal Plugin Asheron's Call
 ```
 
 > [!TIP]
-> ```diff
-+VERIFIED WORKING IN ACE EMULATOR
-```
+> +VERIFIED WORKING IN ACE EMULATOR
+
 
 
 
