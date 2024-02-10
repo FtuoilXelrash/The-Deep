@@ -6,10 +6,6 @@ The Deep Decal Plugin Asheron's Call
 +VERIFIED WORKING IN ACE EMULATOR
 ```
 
-> [!TIP]
-> +VERIFIED WORKING IN ACE EMULATOR
-
-
 
 
 A [Decal](http://www.decaldev.com/) utility plugin for use with private Asheron's Call emulation servers
