@@ -49,6 +49,7 @@ tabulates XP baised on maxed out return
 
 06/12/2006 Version 1.7.0.15 - (DECAL ALPHA 7) RELEASE
 
+
 Changes:
 
 Now shows a total of golds New option to filter out the turn in spam
@@ -57,6 +58,7 @@ Now shows a total of golds New option to filter out the turn in spam
 
 
 01/12/2006 Version 1.0.0.0 - (DECAL ALPHA5d) RELEASE
+
 
 Changes:
 
@@ -69,6 +71,7 @@ Added a check to make sure you were not trying to hand items to yourself.
 Now checks between each turn-in to make sure your target is valid
 
 (IE: you or the target got separated like by death, logoff, recalled, etc...)
+
 
 
 Known Issues:
