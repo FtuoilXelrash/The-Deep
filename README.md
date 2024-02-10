@@ -15,7 +15,7 @@ A [Decal](http://www.decaldev.com/) utility plugin for use with private Asheron'
 
 # Features include:
 
-* Automaticly turn-in gold traophies to The Deep
+* Automaticly turn-in gold trophies to The Deep
 * 
 * 
 
