@@ -7,7 +7,11 @@ The Deep Decal Plugin Asheron's Call
 ```
 
 > [!TIP]
-> VERIFIED WORKING IN ACE EMULATOR!.
+> ```diff
++VERIFIED WORKING IN ACE EMULATOR
+```
+
+
 
 A [Decal](http://www.decaldev.com/) utility plugin for use with private Asheron's Call emulation servers
 
