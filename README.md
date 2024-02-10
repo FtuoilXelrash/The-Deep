@@ -37,17 +37,15 @@ A [Decal](http://www.decaldev.com/) utility plugin for use with private Asheron'
 
 # Old Release notes pre-Github
 
-#07/11/2006 Version 2.7.0.20 - RELEASE
-
+- 07/11/2006 Version 2.7.0.20 - RELEASE
 -Changes:
 * Totals golds seperatly
 * tabulates XP baised on maxed out return
 
 
 
-# 06/12/2006 Version 1.7.0.15 - (DECAL ALPHA 7) RELEASE
-
--Changes:
+- 06/12/2006 Version 1.7.0.15 - (DECAL ALPHA 7) RELEASE
+- Changes:
 * Now shows a total of golds New option to filter out the turn in spam
 
 
