@@ -2,6 +2,19 @@
 The Deep Decal Plugin Asheron's Call
 
 
+
+<code style="color : TESTE">VERIFIED WORKING IN ACE EMULATOR</code> 
+
+$${\color{green}VERIFIED WORKING IN ACE EMULATOR}$$
+
+#0f0[This is green text]
+
+
+```diff
++ this text is highlighted in green
+- this text is highlighted in red
+```
+
 A [Decal](http://www.decaldev.com/) utility plugin for use with private Asheron's Call emulation servers
 
 
