@@ -56,8 +56,7 @@ A [Decal](http://www.decaldev.com/) utility plugin for use with private Asheron'
 * Mostly cosmetic changes.
 * Now shows the target name instead of the GUID.
 * Added a check to make sure you were not trying to hand items to yourself.
-* Now checks between each turn-in to make sure your target is valid
-* (IE: you or the target got separated like by death, logoff, recalled, etc...)
+* Now checks between each turn-in to make sure your target is valid 
 
 
 
