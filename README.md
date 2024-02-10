@@ -12,7 +12,8 @@ The Deep Decal Plugin Asheron's Call
 <font color="green"> green </font>
 ```
 ```html
-   // green
+   // #CD5C5C
+green
 ```
 
 A [Decal](http://www.decaldev.com/) utility plugin for use with private Asheron's Call emulation servers
