@@ -37,7 +37,7 @@ A [Decal](http://www.decaldev.com/) utility plugin for use with private Asheron'
 
 # Old Release notes pre-Github
 
-07/11/2006 Version 2.7.0.20 - RELEASE
+##07/11/2006 Version 2.7.0.20 - RELEASE
 
 -Changes:
 * Totals golds seperatly
