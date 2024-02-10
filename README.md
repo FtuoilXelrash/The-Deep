@@ -22,7 +22,7 @@ A [Decal](http://www.decaldev.com/) utility plugin for use with private Asheron'
 
 # Features include:
 
-* Automaticly turn-in gold trophies to The Deep
+* Automaticly turn-in Gold Trophies to The Deep on Vissidal Island
 * 
 * 
 
