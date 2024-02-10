@@ -6,15 +6,8 @@ The Deep Decal Plugin Asheron's Call
 +VERIFIED WORKING IN ACE EMULATOR
 ```
 
-```html
-   // Code for coloring
-
-<font color="green"> green </font>
-```
-```html
-   // #CD5C5C
-green
-```
+> [!TIP]
+> VERIFIED WORKING IN ACE EMULATOR!.
 
 A [Decal](http://www.decaldev.com/) utility plugin for use with private Asheron's Call emulation servers
 
