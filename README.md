@@ -44,10 +44,12 @@ A [Decal](http://www.decaldev.com/) utility plugin for use with private Asheron'
 * tabulates XP baised on maxed out return
 
 
+
 06/12/2006 Version 1.7.0.15 - (DECAL ALPHA 7) RELEASE
 
 -Changes:
 * Now shows a total of golds New option to filter out the turn in spam
+
 
 
 
@@ -60,6 +62,8 @@ A [Decal](http://www.decaldev.com/) utility plugin for use with private Asheron'
 * Added a check to make sure you were not trying to hand items to yourself.
 * Now checks between each turn-in to make sure your target is valid
 * (IE: you or the target got separated like by death, logoff, recalled, etc...)
+
+
 
 12/21/2005 Version 0.0.0.35 - Initial BETA
 
